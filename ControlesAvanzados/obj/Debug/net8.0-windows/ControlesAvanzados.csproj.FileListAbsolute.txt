@@ -1,0 +1,32 @@
+C:\Users\araceli.asencio\Downloads\ControlesAvanzadosWinForms-master\bin\Debug\net8.0-windows\ControlesAvanzados.exe
+C:\Users\araceli.asencio\Downloads\ControlesAvanzadosWinForms-master\bin\Debug\net8.0-windows\ControlesAvanzados.deps.json
+C:\Users\araceli.asencio\Downloads\ControlesAvanzadosWinForms-master\bin\Debug\net8.0-windows\ControlesAvanzados.runtimeconfig.json
+C:\Users\araceli.asencio\Downloads\ControlesAvanzadosWinForms-master\bin\Debug\net8.0-windows\ControlesAvanzados.dll
+C:\Users\araceli.asencio\Downloads\ControlesAvanzadosWinForms-master\bin\Debug\net8.0-windows\ControlesAvanzados.pdb
+C:\Users\araceli.asencio\Downloads\ControlesAvanzadosWinForms-master\obj\Debug\net8.0-windows\ControlesAvanzados.Archivo.resources
+C:\Users\araceli.asencio\Downloads\ControlesAvanzadosWinForms-master\obj\Debug\net8.0-windows\ControlesAvanzados.Contenedor.resources
+C:\Users\araceli.asencio\Downloads\ControlesAvanzadosWinForms-master\obj\Debug\net8.0-windows\ControlesAvanzados.FormularioProyecto.resources
+C:\Users\araceli.asencio\Downloads\ControlesAvanzadosWinForms-master\obj\Debug\net8.0-windows\ControlesAvanzados.FormularioTarea.resources
+C:\Users\araceli.asencio\Downloads\ControlesAvanzadosWinForms-master\obj\Debug\net8.0-windows\ControlesAvanzados.csproj.GenerateResource.cache
+C:\Users\araceli.asencio\Downloads\ControlesAvanzadosWinForms-master\obj\Debug\net8.0-windows\ControlesAvanzados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\araceli.asencio\Downloads\ControlesAvanzadosWinForms-master\obj\Debug\net8.0-windows\ControlesAvanzados.AssemblyInfoInputs.cache
+C:\Users\araceli.asencio\Downloads\ControlesAvanzadosWinForms-master\obj\Debug\net8.0-windows\ControlesAvanzados.AssemblyInfo.cs
+C:\Users\araceli.asencio\Downloads\ControlesAvanzadosWinForms-master\obj\Debug\net8.0-windows\ControlesAvanzados.csproj.CoreCompileInputs.cache
+C:\Users\araceli.asencio\Downloads\ControlesAvanzadosWinForms-master\obj\Debug\net8.0-windows\ControlesAvanzados.dll
+C:\Users\araceli.asencio\Downloads\ControlesAvanzadosWinForms-master\obj\Debug\net8.0-windows\refint\ControlesAvanzados.dll
+C:\Users\araceli.asencio\Downloads\ControlesAvanzadosWinForms-master\obj\Debug\net8.0-windows\ControlesAvanzados.pdb
+C:\Users\araceli.asencio\Downloads\ControlesAvanzadosWinForms-master\obj\Debug\net8.0-windows\ControlesAvanzados.genruntimeconfig.cache
+C:\Users\araceli.asencio\Downloads\ControlesAvanzadosWinForms-master\obj\Debug\net8.0-windows\ref\ControlesAvanzados.dll
+C:\Users\araceli.asencio\OneDrive - ssasa.com\Desktop\CURSO\PROGRAMACION ll\ControlesAvanzados\obj\Debug\net8.0-windows\ControlesAvanzados.Archivo.resources
+C:\Users\araceli.asencio\OneDrive - ssasa.com\Desktop\CURSO\PROGRAMACION ll\ControlesAvanzados\obj\Debug\net8.0-windows\ControlesAvanzados.ControlesAvanzados.resources
+C:\Users\araceli.asencio\OneDrive - ssasa.com\Desktop\CURSO\PROGRAMACION ll\ControlesAvanzados\obj\Debug\net8.0-windows\ControlesAvanzados.Contenedor.resources
+C:\Users\araceli.asencio\OneDrive - ssasa.com\Desktop\CURSO\PROGRAMACION ll\ControlesAvanzados\obj\Debug\net8.0-windows\ControlesAvanzados.FormularioProyecto.resources
+C:\Users\araceli.asencio\OneDrive - ssasa.com\Desktop\CURSO\PROGRAMACION ll\ControlesAvanzados\obj\Debug\net8.0-windows\ControlesAvanzados.FormularioTarea.resources
+C:\Users\araceli.asencio\OneDrive - ssasa.com\Desktop\CURSO\PROGRAMACION ll\ControlesAvanzados\obj\Debug\net8.0-windows\ControlesAvanzados.csproj.GenerateResource.cache
+C:\Users\araceli.asencio\OneDrive - ssasa.com\Desktop\CURSO\PROGRAMACION ll\ControlesAvanzados\obj\Debug\net8.0-windows\ControlesAvanzados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\araceli.asencio\OneDrive - ssasa.com\Desktop\CURSO\PROGRAMACION ll\ControlesAvanzados\obj\Debug\net8.0-windows\ControlesAvanzados.AssemblyInfoInputs.cache
+C:\Users\araceli.asencio\OneDrive - ssasa.com\Desktop\CURSO\PROGRAMACION ll\ControlesAvanzados\obj\Debug\net8.0-windows\ControlesAvanzados.AssemblyInfo.cs
+C:\Users\araceli.asencio\OneDrive - ssasa.com\Desktop\CURSO\PROGRAMACION ll\ControlesAvanzados\obj\Debug\net8.0-windows\ControlesAvanzados.csproj.CoreCompileInputs.cache
+C:\Users\araceli.asencio\OneDrive - ssasa.com\Desktop\CURSO\PROGRAMACION ll\ControlesAvanzados\obj\Debug\net8.0-windows\ControlesAvanzados.dll
+C:\Users\araceli.asencio\OneDrive - ssasa.com\Desktop\CURSO\PROGRAMACION ll\ControlesAvanzados\obj\Debug\net8.0-windows\refint\ControlesAvanzados.dll
+C:\Users\araceli.asencio\OneDrive - ssasa.com\Desktop\CURSO\PROGRAMACION ll\ControlesAvanzados\obj\Debug\net8.0-windows\ControlesAvanzados.pdb
